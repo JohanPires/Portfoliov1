@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0760ddba.css",
-    "main.js": "/static/js/main.ba648ffe.js",
+    "main.css": "/static/css/main.12fa4e0f.css",
+    "main.js": "/static/js/main.61bc699a.js",
     "static/media/Mulish-VariableFont_wght.ttf": "/static/media/Mulish-VariableFont_wght.d8a9a18cece4ed88ac76.ttf",
     "index.html": "/index.html",
-    "main.0760ddba.css.map": "/static/css/main.0760ddba.css.map",
-    "main.ba648ffe.js.map": "/static/js/main.ba648ffe.js.map"
+    "main.12fa4e0f.css.map": "/static/css/main.12fa4e0f.css.map",
+    "main.61bc699a.js.map": "/static/js/main.61bc699a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0760ddba.css",
-    "static/js/main.ba648ffe.js"
+    "static/css/main.12fa4e0f.css",
+    "static/js/main.61bc699a.js"
   ]
 }
